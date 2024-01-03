@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      This project on<br>
+       This project on<br>
     </p>
     <h1>firebase</h1>
     <h1>github</h1>
